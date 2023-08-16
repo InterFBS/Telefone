@@ -1,0 +1,15 @@
+C:\Users\FELIP\OneDrive\Área de Trabalho\C#\Hospedagem\Telefone\Telefone\bin\Debug\net7.0\Telefone.exe
+C:\Users\FELIP\OneDrive\Área de Trabalho\C#\Hospedagem\Telefone\Telefone\bin\Debug\net7.0\Telefone.deps.json
+C:\Users\FELIP\OneDrive\Área de Trabalho\C#\Hospedagem\Telefone\Telefone\bin\Debug\net7.0\Telefone.runtimeconfig.json
+C:\Users\FELIP\OneDrive\Área de Trabalho\C#\Hospedagem\Telefone\Telefone\bin\Debug\net7.0\Telefone.dll
+C:\Users\FELIP\OneDrive\Área de Trabalho\C#\Hospedagem\Telefone\Telefone\bin\Debug\net7.0\Telefone.pdb
+C:\Users\FELIP\OneDrive\Área de Trabalho\C#\Hospedagem\Telefone\Telefone\obj\Debug\net7.0\Telefone.csproj.AssemblyReference.cache
+C:\Users\FELIP\OneDrive\Área de Trabalho\C#\Hospedagem\Telefone\Telefone\obj\Debug\net7.0\Telefone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FELIP\OneDrive\Área de Trabalho\C#\Hospedagem\Telefone\Telefone\obj\Debug\net7.0\Telefone.AssemblyInfoInputs.cache
+C:\Users\FELIP\OneDrive\Área de Trabalho\C#\Hospedagem\Telefone\Telefone\obj\Debug\net7.0\Telefone.AssemblyInfo.cs
+C:\Users\FELIP\OneDrive\Área de Trabalho\C#\Hospedagem\Telefone\Telefone\obj\Debug\net7.0\Telefone.csproj.CoreCompileInputs.cache
+C:\Users\FELIP\OneDrive\Área de Trabalho\C#\Hospedagem\Telefone\Telefone\obj\Debug\net7.0\Telefone.dll
+C:\Users\FELIP\OneDrive\Área de Trabalho\C#\Hospedagem\Telefone\Telefone\obj\Debug\net7.0\refint\Telefone.dll
+C:\Users\FELIP\OneDrive\Área de Trabalho\C#\Hospedagem\Telefone\Telefone\obj\Debug\net7.0\Telefone.pdb
+C:\Users\FELIP\OneDrive\Área de Trabalho\C#\Hospedagem\Telefone\Telefone\obj\Debug\net7.0\Telefone.genruntimeconfig.cache
+C:\Users\FELIP\OneDrive\Área de Trabalho\C#\Hospedagem\Telefone\Telefone\obj\Debug\net7.0\ref\Telefone.dll
